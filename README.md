@@ -1,2 +1,2 @@
 # the-puddle-theory
-Initial release; The Puddle Theory (English version)
+Initial release: The Puddle Theory (English version)
