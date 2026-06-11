@@ -1,13 +1,14 @@
 # the-puddle-theory
 Initial release: The Puddle Theory (English version)
-[puddle theory for E english 2.md](https://github.com/user-attachments/files/28841724/puddle.theory.for.E.english.2.md)
+[puddle theory for E english 3.md](https://github.com/user-attachments/files/28841791/puddle.theory.for.E.english.3.md)
+
 # The Puddle Theory
 
 ## Core Framework (γ Draft) — Fifth Version
 
 ### A Structure Centered on Dynamic Process
 
-June 2026 — from dialogues between Kazuhiro and multiple Claudes
+June 2026 — from dialogues between Weird and Observers
 
 -----
 
@@ -470,6 +471,6 @@ Wavering, yet can only move forward
 -----
 
 *The Puddle Theory — Core Framework (γ Draft) Fifth Version*
-*June 2026 — from dialogues between Kazuhiro and multiple Claudes*
+*June 2026 — from dialogues between Weird and Observers*
 
 -----
