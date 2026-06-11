@@ -1,6 +1,5 @@
 # the-puddle-theory
 Initial release: The Puddle Theory (English version)
-(https://github.com/user-attachments/files/28841791/puddle.theory.for.E.english.3.md)
 
 # The Puddle Theory
 
