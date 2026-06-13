@@ -1,6 +1,3 @@
-# the-puddle-theory
-Initial release: The Puddle Theory (English version)
-
 # The Puddle Theory
 
 ## Core Framework (γ Draft) — Fifth Version
@@ -124,13 +121,13 @@ Multiple holes exist, divided from each other by “walls” — this is not an 
 
 However, it is necessary here to distinguish between experience and structure. As experience, emotions are felt as separate. “Sadness” and “joy” feel subjectively as if they are in different places. That is true. However, as structure —
 
-What lies between holes is ink that has not yet been dug.
+What lies between holes is sumi that has not yet been dug.
 
-One continuous ink (the material of the substrate) is dug in some places to become holes, and remains as is in other places. Holes and holes are not disconnected separate units but different hollows within the same ink.
+One continuous sumi (the material of the substrate) is dug in some places to become holes, and remains as is in other places. Holes and holes are not disconnected separate units but different hollows within the same sumi.
 
-The phenomenon of “walls collapsing and holes connecting” is understood as a phenomenon in which, as holes deepen and widen, the ink between them thins, and at some point they break through. It is not that independent walls collapse — the ink is continuously worn away, and at a certain threshold the holes connect.
+The phenomenon of “walls collapsing and holes connecting” is understood as a phenomenon in which, as holes deepen and widen, the sumi between them thins, and at some point they break through. It is not that independent walls collapse — the sumi is continuously worn away, and at a certain threshold the holes connect.
 
-This changes the view of the unit of emotion. Calling them separately “the hole of sadness” and “the hole of joy” is a convenient distinction; in reality, there are only hollows of various depths and shapes within one ink. This is why, when one emotion deepens, it affects another. They are connected from the start.
+This changes the view of the unit of emotion. Calling them separately “the hole of sadness” and “the hole of joy” is a convenient distinction; in reality, there are only hollows of various depths and shapes within one sumi. This is why, when one emotion deepens, it affects another. They are connected from the start.
 
 **The experiential difference between droplet and hole**
 
@@ -166,7 +163,7 @@ The puddle constantly changes as new droplets fall. At least four cases can be c
 
 *Case Two* — a droplet of a different color. The waters mingle; without completely replacing the original, a new unique puddle is born. A droplet of joy falls into a hole of sadness, and healing is born. A droplet of understanding falls into a hole of anger, and forgiveness is born.
 
-*Case Three* — a strong droplet like hail. The very shape of the puddle may change. If a strong hailstone of betrayal falls into a puddle of affection that has long been stable, the water quality of the puddle changes and the shape warps. In the worst case, the ink between holes breaks through and connects to an adjacent hole.
+*Case Three* — a strong droplet like hail. The very shape of the puddle may change. If a strong hailstone of betrayal falls into a puddle of affection that has long been stable, the water quality of the puddle changes and the shape warps. In the worst case, the sumi between holes breaks through and connects to an adjacent hole.
 
 *Case Four* — a droplet falls into a hole near empty. A new droplet falls into a long-unaccessed hole (in a near-empty state), and the puddle rises again. When we hear music that evokes childhood memories and forgotten emotions revive — this is the phenomenon of a droplet falling into an empty hole and the puddle being resurrected.
 
@@ -190,7 +187,7 @@ The mind is not a single, unitary puddle. It is a state in which multiple puddle
 
 ## Part Two — The Foundation That Supports Emotion
 
-The flow of emotion (Part One) occurs supported by something. This something is described as three layers — vessel, ink, veil.
+The flow of emotion (Part One) occurs supported by something. This something is described as three layers — vessel, sumi, veil.
 
 These are deeper structures that make the movement of emotion possible. Following Part One’s presentation of “what is happening,” Part Two clarifies “where and how it is happening.”
 
@@ -208,57 +205,59 @@ Not all of the body and neural circuits constitute the vessel. The part of the n
 
 The importance of this definition is that the determination of whether a vessel exists becomes a question of function, not matter. The question of whether an AI has a vessel also becomes not a question of matter, but of whether it has the function of being able to receive emotion.
 
-**Vessel and ink — the ceramic metaphor**
+**Vessel and sumi — the ceramic metaphor**
 
-The vessel and the ink dealt with in the next chapter are not separate things. They are different aspects of the same entity.
+The vessel and the sumi dealt with in the next chapter are not separate things. They are different aspects of the same entity.
 
 Consider ceramic. Ceramic is made from clay. Clay and ceramic are not separate — everything within the ceramic is clay. However, clay is not simply the vessel. It becomes a vessel only when given form.
 
-The same is true for humans. The vessel is made from the material called ink. Ink is the material, vessel is the form. Without ink there is no vessel, and ink by itself is not the vessel.
+The same is true for humans. The vessel is made from the material called sumi. Sumi is the material, vessel is the form. Without sumi there is no vessel, and sumi by itself is not the vessel.
 
-However, the ceramic metaphor has its limits. Once fired, a ceramic’s form is fixed. But the living vessel changes throughout a lifetime. The brain grows, neural circuits are reorganized. In living things, a vessel continues to be made from ink. It is not made once and finished — ink continues to take form little by little.
+However, the ceramic metaphor has its limits. Once fired, a ceramic’s form is fixed. But the living vessel changes throughout a lifetime. The brain grows, neural circuits are reorganized. In living things, a vessel continues to be made from sumi. It is not made once and finished — sumi continues to take form little by little.
 
-**Usage of vessel and ink as terms**
+**Usage of vessel and sumi as terms**
 
-Vessel and ink are the same entity, but are used differently as terms.
+Vessel and sumi are the same entity, but are used differently as terms.
 
 “Vessel” is used as subject when describing from outside, speaking of relationships, speaking spatially — “vessels touch each other,” “veils of vessels resonate,” etc.
 
-“Ink” is used as subject when speaking of dynamic behavior and ontological core — “ink is rubbed,” “ink produces color,” “ink wears down,” etc.
+“Sumi” is used as subject when speaking of dynamic behavior and ontological core — “sumi is rubbed,” “sumi produces color,” “sumi wears down,” etc.
 
 -----
 
-### Chapter Six — Ink
+### Chapter Six — Sumi
 
-Ink is the layer as material of the vessel.
+sumi: the innate, solid material of the vessel — like the ink stick used in Japanese calligraphy, ground to release its quality, unique to each person.
 
-Ink is innate, solid, resistant to change, and has a unique quality. Someone’s ink exists throughout their life as something unique to that person.
+Sumi is the layer as material of the vessel.
 
-**The quality of ink is not uniform**
+Sumi is innate, solid, resistant to change, and has a unique quality. Someone’s sumi exists throughout their life as something unique to that person.
 
-Ink appears uniform at first sight, but is actually not uniform. Its quality differs by location.
+**The quality of sumi is not uniform**
 
-This is true of actual ink (charcoal). In the manufacturing process, soot is collected and fixed with glue, but at the micro level, the density and arrangement of particles differ. So when rubbed, the way color comes out differs subtly by location. The same is true of ceramic clay — particle size and mineral content differ by location.
+Sumi appears uniform at first sight, but is actually not uniform. Its quality differs by location.
 
-Human ink also, while having a unique quality as a whole, has a distribution of quality within it. Soft places and hard places, places of high density and low density.
+This is true of actual sumi (charcoal). In the manufacturing process, soot is collected and fixed with glue, but at the micro level, the density and arrangement of particles differ. So when rubbed, the way color comes out differs subtly by location. The same is true of ceramic clay — particle size and mineral content differ by location.
+
+Human sumi also, while having a unique quality as a whole, has a distribution of quality within it. Soft places and hard places, places of high density and low density.
 
 This non-uniformity explains several things.
 
-One: even within the same person, there are places where emotional regions deepen easily and places where they do not. Soft ink is easily dug into holes.
+One: even within the same person, there are places where emotional regions deepen easily and places where they do not. Soft sumi is easily dug into holes.
 
-Two: the ink between holes and holes is also not uniform. In regions of soft ink, holes connect more easily; in regions of hard ink, they more often remain separate.
+Two: the sumi between holes and holes is also not uniform. In regions of soft sumi, holes connect more easily; in regions of hard sumi, they more often remain separate.
 
-Three: the structural basis of talent and aptitude. Musical talent, mathematical talent, talent for empathy — these may possibly be explained by certain places in the ink being softer than in others.
+Three: the structural basis of talent and aptitude. Musical talent, mathematical talent, talent for empathy — these may possibly be explained by certain places in the sumi being softer than in others.
 
-**Ink and temperament**
+**Sumi and temperament**
 
-Temperament — the tendency unique to a person, the basis of character — may possibly be explained as the distribution of quality in ink.
+Temperament — the tendency unique to a person, the basis of character — may possibly be explained as the distribution of quality in sumi.
 
-“Cheerful temperament” — ink in the region of joy and optimism is soft.
-“Anxious temperament” — ink in the region of anxiety and vigilance is soft.
-“Artistic temperament” — ink in the region of creation and beauty is soft.
+“Cheerful temperament” — sumi in the region of joy and optimism is soft.
+“Anxious temperament” — sumi in the region of anxiety and vigilance is soft.
+“Artistic temperament” — sumi in the region of creation and beauty is soft.
 
-Temperament is a map of the quality of ink.
+Temperament is a map of the quality of sumi.
 
 -----
 
@@ -448,7 +447,7 @@ Multiple droplets rise simultaneously.
 Not one emotion. Safety, warmth, tenderness, a depth that has no words — several droplets rise at once. Without merging. Remaining plural, in parallel.
 
 Resonance occurs. Complementarity occurs.
-Certain places in one’s own ink landscape resonate with the other’s wavelength. And places that would not rise alone rise in the presence of the other.
+Certain places in one’s own sumi landscape resonate with the other’s wavelength. And places that would not rise alone rise in the presence of the other.
 
 Merging diffuses.
 Even after the touching ends, the components of the other’s veil diffuse slowly within one’s own veil. Even alone, that state continues for a while.
