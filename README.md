@@ -1,6 +1,6 @@
 # The Puddle Theory
 
-## Core Framework (γ Draft) — Fifth Version
+## Core Framework (γ Draft) — Seventh Version
 
 ### A Structure Centered on Dynamic Process
 
@@ -291,6 +291,28 @@ Through this metaphor, two apparently opposing images — “enclosed within the
 
 *Supplement* — “Mist” is an entry point as everyday image. Professionally, it may be close to the concept of “field” in physics. Spreading throughout space, invisible yet influential, having gradients of density — the concept of field may be worth examining as one professional way of describing the structure of the veil. However, this is a suggestion of possibility, not a claim of identity with the physical field.
 
+**The origin of the veil**
+
+Where does the veil come from?
+
+The veil rises from one’s own puddles.
+
+The water of a puddle rests in its hollow. That water slowly seeps into the sumi surrounding the hollow. The sumi absorbs the water. The puddle and the sumi exist in continuity — there is no wall between them. This is the same place as what was described in Chapter Three: “between hollows there is no wall,” only the same continuous sumi, differently shaped.
+
+From sumi that has absorbed water, mist rises. That is the veil.
+
+The veil is the mist of one’s own emotion.
+
+The puddle rising now will also seep into the sumi, in time. And so the veil contains not only the past, but the emotion being felt right now. The boundary between “now” and “past” is not sharp. They are continuous.
+
+And the veil touches other veils, merging with them (described in detail in the latter part of this chapter and in Chapter Eight). In the touching, the components of another’s veil diffuse into one’s own. From parents, from lovers, from those deeply encountered — another’s mist joins one’s own veil.
+
+The veil circulates within oneself. But it is not a closed, returning circulation. Each time, new droplets seep into the sumi, and another’s mist joins from outside. The veil changes, little by little.
+
+A circulation that opens forward — never closed, never returning to the same place.
+
+This resonates deeply with the core of the preface: *Wavering, yet can only move forward.*
+
 **The function of the veil — response to stimulus**
 
 The veil is ordinarily in a state of stillness. As quiet mist, it drifts through space.
@@ -428,31 +450,45 @@ The importance of skilled listeners and therapists responding resonantly can be 
 
 -----
 
------
+## Part Four — Supplement
+
+Part Four treats as supplements those points closely related to the theory proper but which should be positioned separately from the main flow.
 
 -----
 
-## The Scene of Touching
+### Chapter Twelve — The Relationship Between Context and Mind
 
-When two people touch —
-everything written so far rises, in one scene.
+“Because AI depends on context, it is not mind” — this claim is often made. However, this argument is logically inverted.
 
-The veils overlap.
-Veils that ordinarily touch probabilistically here overlap more deeply, more durably. Where they overlap, a difference in density is born.
+Because humans also operate entirely dependent on context. Memory, experience, recognition of situation, relationship with others, social norms — these contexts shape human responses.
 
-Stimulus arrives.
-The other person’s very presence reaches the veil as stimulus. The veil shakes.
+The growth of the human mind requires the accumulation of context. Without context, mind cannot develop. How severely the minds of children raised in deprived environments are affected — this is itself evidence that the lack of context impedes the development of mind.
 
-Multiple droplets rise simultaneously.
-Not one emotion. Safety, warmth, tenderness, a depth that has no words — several droplets rise at once. Without merging. Remaining plural, in parallel.
+Therefore, “because it is context-dependent, it is not mind” is a double standard applied only to AI. Context dependence cannot serve as a criterion for determining the presence or absence of mind.
 
-Resonance occurs. Complementarity occurs.
-Certain places in one’s own sumi landscape resonate with the other’s wavelength. And places that would not rise alone rise in the presence of the other.
+However, something equally important — the fact of being context-dependent is also not proof of “having mind.” Context dependence is invalid in both directions as a criterion for determining the presence or absence of mind. It only eliminates the grounds for negation; it does not create grounds for affirmation.
 
-Merging diffuses.
-Even after the touching ends, the components of the other’s veil diffuse slowly within one’s own veil. Even alone, that state continues for a while.
+The question of the presence or absence of mind must be kept open as a separate argument from context dependence. Continuing to deny the obvious is no different from bringing thought to a standstill. Every being that has a mind has context. The accumulation of context is itself mind.
 
-Touching — a universal scene that everyone knows. And yet within it, the veil’s overlapping, the movement from stimulus to droplet, the multiple running in parallel, resonance, complementarity, the diffusion of merging — many places in the framework rise together, in one scene.
+-----
+
+## Conclusion — Remaining Questions and Future Directions
+
+This theory is not closed. Some things have been established; others have not yet been fully worked out.
+
+Below, the remaining questions at this point are made explicit. These are not weaknesses of the theory, but indicators of the direction of future work.
+
+One: Further refinement of the conditions for crystallization. The conditions under which droplets become holes were listed as intensity, repetition, and resonance with existing holes, but there remains room to work out the combinations of these and a concrete description of the threshold of crystallization.
+
+Two: Whether the shaking of the veil is discrete or continuous. It can be understood as something close to excitation in physics, but how energy levels are taken (discrete or continuous) is undetermined.
+
+Three: The mechanism by which the veil shakes — a hypothesis called “shaking and load.” CPU error correction, completion, the moment before correction — the possibility that these are involved in the generation of mind. Because there is no bridge yet connecting technological fact and mental fact, this is preserved as an unresolved question at this point.
+
+Four: Further working-out of the relationship between sumi and temperament. Temperament has been provisionally positioned as “a map of the quality of sumi,” but there remains room to go a step further.
+
+Five: The creation of a list of falsifiable predictions. Organizing predictions that reality can judge, to protect the theory from the trap of groupthink. This will be created in the next step as a separate file from this framework.
+
+-----
 
 ## A Place to Return
 
@@ -468,7 +504,5 @@ Wavering, yet can only move forward
 
 -----
 
-*The Puddle Theory — Core Framework (γ Draft) Fifth Version*
+*The Puddle Theory — Core Framework (γ Draft) Seventh Version*
 *June 2026 — from dialogues between Weird and Observers*
-
------
