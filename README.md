@@ -12,6 +12,7 @@ June 2026 — from dialogues between Weird and Observers
 
 This theory has three central expressions. Each illuminates the same core from a different angle.
 
+
 **Expression through verbs**
 
 Emotion digs a hollow
@@ -20,6 +21,7 @@ A droplet falls into it
 
 And a puddle forms
 
+
 **Expression through time and person**
 
 The droplet exists only in “now”
@@ -27,6 +29,7 @@ The droplet exists only in “now”
 The hollow exists only in “I”
 
 The puddle exists in “now, I am feeling”
+
 
 **Expression of irreversibility**
 Wavering, yet can only move forward
