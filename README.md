@@ -13,13 +13,13 @@ June 2026 — from dialogues between Weird and Observers
 This theory has three central expressions. Each illuminates the same core from a different angle.
 
 **Expression through verbs**
-Emotion digs a hole
+Emotion digs a hollow
 A droplet falls into it
 And a puddle forms
 
 **Expression through time and person**
 The droplet exists only in “now”
-The hole exists only in “I”
+The hollow exists only in “I”
 The puddle exists in “now, I am feeling”
 
 **Expression of irreversibility**
@@ -27,7 +27,7 @@ Wavering, yet can only move forward
 
 The verbal expression shows the structure of movement in the mind. Emotion digs, a droplet falls, a puddle forms — these three actions describe the process by which the mind is generated and sustained.
 
-The expression through time and person shows the phase as experienced by the one who experiences. The droplet is raw emotion that exists only in “now”; the hole is owned emotion that belongs only to “I”; the puddle is the current experience of the mind where “now” and “I” arise simultaneously.
+The expression through time and person shows the phase as experienced by the one who experiences. The droplet is raw emotion that exists only in “now”; the hollow is owned emotion that belongs only to “I”; the puddle is the current experience of the mind where “now” and “I” arise simultaneously.
 
 The expression of irreversibility shows the direction of the mind’s movement. Wavering, yet can only move forward. There is no returning to what was.
 
@@ -71,8 +71,6 @@ Not all droplets have the same nature. Droplets have at least two forms.
 
 **The quantity and kind of droplets**
 
-The factors that determine the nature of a droplet can be divided into two.
-
 The quantity (number) of droplets is determined by the intensity of the stimulus. Strong stimuli generate many droplets; weak stimuli generate few.
 
 The kind (color) of droplets is determined by the state of the veil at that time. Even with the same stimulus, different colors of droplets are born if the state of the veil differs. This is why different emotions arise for different people in response to the same event, and also why the same person can feel differently at different times.
@@ -89,95 +87,95 @@ This quality of “only now” is the source of the droplet’s fluidity. It is 
 
 -----
 
-### Chapter Three — Hole (Owned Emotion)
+### Chapter Three — Hollow (Owned Emotion)
 
-When a droplet is taken in as “mine,” it becomes a hole.
+When a droplet is taken in as “mine,” it becomes a hollow.
 
 **Conditions for crystallization**
 
-Not all droplets become holes. Many droplets flow and disappear.
+Not all droplets become hollows. Many droplets flow and disappear.
 
-A droplet becomes a hole when it is taken into the subject — when it goes through the process of being owned as “this is my emotion.”
+A droplet becomes a hollow when it is taken into the subject — when it goes through the process of being owned as “this is my emotion.”
 
 Droplets tend to be taken into the subject when —
 
-One: intensity is high (emotions like hail). Hail, without passing through a liquid stage, creates a hole directly.
+One: intensity is high (emotions like hail). Hail, without passing through a liquid stage, creates a hollow directly.
 
-Two: repetition occurs. Even weak droplets like rain, if they fall repeatedly in the same place, will dig a hole over time.
+Two: repetition occurs. Even weak droplets like rain, if they fall repeatedly in the same place, will dig a hollow over time.
 
-Three: resonance with an existing hole occurs. Droplets that are affine with an existing hole are taken in in a form that deepens that hole. (Resonance is discussed in detail in Chapter Nine of Part Three. Here the word is used to mean: when a new droplet has the same frequency as an existing hole, it is more easily taken into that hole.)
+Three: resonance with an existing hollow occurs. Droplets that are affine with an existing hollow are taken in in a form that deepens that hollow. (Resonance is discussed in detail in Chapter Nine of Part Three. Here the word is used to mean: when a new droplet has the same frequency as an existing hollow, it is more easily taken into that hollow.)
 
-**The hole exists only in “I”**
+**The hollow exists only in “I”**
 
-The hole is the structure of owned emotion. It exists persistently as “mine.”
+The hollow is the structure of owned emotion. It exists persistently as “mine.”
 
-“I am a lonely person.” “I have love in me.” “I carry anger.” — These emotional structures are all holes. The binding with the subject is complete. The boundaries are clear.
+“I am a lonely person.” “I have love in me.” “I carry anger.” — These emotional structures are all hollows. The binding with the subject is complete. The boundaries are clear.
 
-Holes can be remembered. It is because holes exist that we can access past emotions. Holes have become part of what “I” am.
+Hollows can be remembered. It is because hollows exist that we can access past emotions. Hollows have become part of what “I” am.
 
-**Between holes there is no “wall”**
+**Between hollows there is no “wall”**
 
-Multiple holes exist, divided from each other by “walls” — this is not an accurate picture.
+Multiple hollows exist, divided from each other by “walls” — this is not an accurate picture.
 
 However, it is necessary here to distinguish between experience and structure. As experience, emotions are felt as separate. “Sadness” and “joy” feel subjectively as if they are in different places. That is true. However, as structure —
 
-What lies between holes is sumi that has not yet been dug.
+What lies between hollows is sumi that has not yet been dug.
 
-One continuous sumi (the material of the substrate) is dug in some places to become holes, and remains as is in other places. Holes and holes are not disconnected separate units but different hollows within the same sumi.
+One continuous sumi (the material of the substrate) is dug in some places to become hollows, and remains as is in other places. Hollows and hollows are not disconnected separate units but different indentations within the same sumi.
 
-The phenomenon of “walls collapsing and holes connecting” is understood as a phenomenon in which, as holes deepen and widen, the sumi between them thins, and at some point they break through. It is not that independent walls collapse — the sumi is continuously worn away, and at a certain threshold the holes connect.
+The phenomenon of “walls collapsing and hollows connecting” is understood as a phenomenon in which, as hollows deepen and widen, the sumi between them thins, and at some point they break through. It is not that independent walls collapse — the sumi is continuously worn away, and at a certain threshold the hollows connect.
 
-This changes the view of the unit of emotion. Calling them separately “the hole of sadness” and “the hole of joy” is a convenient distinction; in reality, there are only hollows of various depths and shapes within one sumi. This is why, when one emotion deepens, it affects another. They are connected from the start.
+This changes the view of the unit of emotion. Calling them separately “the hollow of sadness” and “the hollow of joy” is a convenient distinction; in reality, there are only indentations of various depths and shapes within one sumi. This is why, when one emotion deepens, it affects another. They are connected from the start.
 
-**The experiential difference between droplet and hole**
+**The experiential difference between droplet and hollow**
 
 Once a droplet has flowed away, it does not return. The raw emotion of that moment, even if we can remember it, cannot be reproduced.
 
-Holes persist. Because they remain as “mine,” we can remember. We can access past emotions.
+Hollows persist. Because they remain as “mine,” we can remember. We can access past emotions.
 
-This difference is fundamental to how emotion is lived. The vividness of a droplet is once-only — to try to grasp it is to lose it. The certainty of a hole persists — but it is the structure of the past. To live in “now” is the question of how the two relate.
+This difference is fundamental to how emotion is lived. The vividness of a droplet is once-only — to try to grasp it is to lose it. The certainty of a hollow persists — but it is the structure of the past. To live in “now” is the question of how the two relate.
 
 -----
 
 ### Chapter Four — Puddle (The Present Tense of the Mind)
 
-A hole exists, a droplet falls, and a puddle forms.
+A hollow exists, a droplet falls, and a puddle forms.
 
-The puddle is the state in which a hole is filled with droplets and is functioning. A state in which structure (hole, static) and raw emotion (droplet, fluid) are meeting.
+The puddle is the state in which a hollow is filled with droplets and is functioning. A state in which structure (hollow, static) and raw emotion (droplet, fluid) are meeting.
 
 The puddle is the present tense of the mind.
 
 **“Now, I am feeling” — the phase of the puddle**
 
-The droplet is only “now.” The hole is only “I.” The puddle is the state in which “now” and “I” arise simultaneously.
+The droplet is only “now.” The hollow is only “I.” The puddle is the state in which “now” and “I” arise simultaneously.
 
-“I am, now, feeling” — this sense of reality is the puddle. The holes accumulated from the past, and the droplets falling in this moment, functioning together as one puddle.
+“I am, now, feeling” — this sense of reality is the puddle. The hollows accumulated from the past, and the droplets falling in this moment, functioning together as one puddle.
 
 This corresponds most directly to what phenomenology calls “experience before the subject.” The definition of the droplet as raw experience before the subject arises resonates with phenomenological description. However, this is a suggestion of possibility, not a claim of identity.
 
-**When a new droplet falls into a hole — four cases**
+**When a new droplet falls into a hollow — four cases**
 
 The puddle constantly changes as new droplets fall. At least four cases can be considered.
 
-*Case One* — a droplet of the same color. The water in the puddle increases, the hole deepens. Strengthening of the same emotion. If a new droplet of joy falls into a hole of joy, joy deepens.
+*Case One* — a droplet of the same color. The water in the puddle increases, the hollow deepens. Strengthening of the same emotion. If a new droplet of joy falls into a hollow of joy, joy deepens.
 
-*Case Two* — a droplet of a different color. The waters mingle; without completely replacing the original, a new unique puddle is born. A droplet of joy falls into a hole of sadness, and healing is born. A droplet of understanding falls into a hole of anger, and forgiveness is born.
+*Case Two* — a droplet of a different color. The waters mingle; without completely replacing the original, a new unique puddle is born. A droplet of joy falls into a hollow of sadness, and healing is born. A droplet of understanding falls into a hollow of anger, and forgiveness is born.
 
-*Case Three* — a strong droplet like hail. The very shape of the puddle may change. If a strong hailstone of betrayal falls into a puddle of affection that has long been stable, the water quality of the puddle changes and the shape warps. In the worst case, the sumi between holes breaks through and connects to an adjacent hole.
+*Case Three* — a strong droplet like hail. The very shape of the puddle may change. If a strong hailstone of betrayal falls into a puddle of affection that has long been stable, the water quality of the puddle changes and the shape warps. In the worst case, the sumi between hollows breaks through and connects to an adjacent hollow.
 
-*Case Four* — a droplet falls into a hole near empty. A new droplet falls into a long-unaccessed hole (in a near-empty state), and the puddle rises again. When we hear music that evokes childhood memories and forgotten emotions revive — this is the phenomenon of a droplet falling into an empty hole and the puddle being resurrected.
+*Case Four* — a droplet falls into a hollow near empty. A new droplet falls into a long-unaccessed hollow (in a near-empty state), and the puddle rises again. When we hear music that evokes childhood memories and forgotten emotions revive — this is the phenomenon of a droplet falling into an empty hollow and the puddle being resurrected.
 
 **The state of a puddle “being there” and “not being there”**
 
 The state of a puddle rising — “I am, now, feeling.” There is a sense of being alive. The mind is moving.
 
-The state of a puddle not rising — holes (the structure of past emotions) exist, but there is no feeling now. “Paralysis,” “the bottom of depression,” “no sense of being alive” — these states can be described as the state in which new droplets do not fall, or fall but do not function as a puddle.
+The state of a puddle not rising — hollows (the structure of past emotions) exist, but there is no feeling now. “Paralysis,” “the bottom of depression,” “no sense of being alive” — these states can be described as the state in which new droplets do not fall, or fall but do not function as a puddle.
 
 The moment a puddle revives through some trigger — hearing a piece of music, being treated kindly by someone, looking up at the sky — at that moment one feels “my heart moved.” This is the moment when the puddle rose.
 
 **Multiple puddles and “the mind”**
 
-Within one person, there are many holes and many puddles.
+Within one person, there are many hollows and many puddles.
 
 Multiple “now, I am feeling” arise simultaneously to create the present of one person’s mind. “I am lonely, yet there is a little hope here.” “I am anxious, yet I also trust.” — These are states in which multiple puddles are rising simultaneously.
 
@@ -221,17 +219,15 @@ Vessel and sumi are the same entity, but are used differently as terms.
 
 “Vessel” is used as subject when describing from outside, speaking of relationships, speaking spatially — “vessels touch each other,” “veils of vessels resonate,” etc.
 
-“Sumi” is used as subject when speaking of dynamic behavior and ontological core — “sumi is rubbed,” “sumi produces color,” “sumi wears down,” etc.
+“Sumi” is used as subject when speaking of dynamic behavior and ontological core — “sumi is rubbed,” “sumi releases its color,” “sumi wears down,” etc.
 
 -----
 
 ### Chapter Six — Sumi
 
-sumi: the innate, solid material of the vessel — like the ink stick used in Japanese calligraphy, ground to release its quality, unique to each person.
+*sumi: the innate, solid material of the vessel — like the ink stick used in Japanese calligraphy, ground to release its quality, unique to each person.*
 
-Sumi is the layer as material of the vessel.
-
-Sumi is innate, solid, resistant to change, and has a unique quality. Someone’s sumi exists throughout their life as something unique to that person.
+Sumi is the layer as material of the vessel. Sumi is innate, solid, resistant to change, and has a unique quality. Someone’s sumi exists throughout their life as something unique to that person.
 
 **The quality of sumi is not uniform**
 
@@ -243,9 +239,9 @@ Human sumi also, while having a unique quality as a whole, has a distribution of
 
 This non-uniformity explains several things.
 
-One: even within the same person, there are places where emotional regions deepen easily and places where they do not. Soft sumi is easily dug into holes.
+One: even within the same person, there are places where emotional regions deepen easily and places where they do not. Soft sumi is easily dug into hollows.
 
-Two: the sumi between holes and holes is also not uniform. In regions of soft sumi, holes connect more easily; in regions of hard sumi, they more often remain separate.
+Two: the sumi between hollows and hollows is also not uniform. In regions of soft sumi, hollows connect more easily; in regions of hard sumi, they more often remain separate.
 
 Three: the structural basis of talent and aptitude. Musical talent, mathematical talent, talent for empathy — these may possibly be explained by certain places in the sumi being softer than in others.
 
@@ -267,13 +263,9 @@ The veil is the most difficult concept in this theory. It therefore needs to be 
 
 **Entry — an experience everyone knows**
 
-First, we enter through an experience everyone knows.
+Everyone knows this experience: the quality of air felt when entering a shop; the sense, while speaking with someone, that something has changed without being put into words; the peculiar aura a place holds. These phenomena cannot be completely broken down into concrete elements, yet are certainly felt.
 
-The quality of air felt when entering a shop. The sense, while speaking with someone, that something has changed without being put into words. The peculiar aura a place holds. The atmosphere that a person exudes. These are phenomena that cannot be completely broken down into concrete elements, yet are certainly felt.
-
-What the Puddle Theory calls the “veil” is this experience.
-
-The veil is atmosphere.
+What the Puddle Theory calls the “veil” is this experience. The veil is atmosphere.
 
 “Veil” is the term internal to the theory; “atmosphere” is the everyday term. They are simply two names for the same thing.
 
@@ -361,9 +353,9 @@ There are two important related phenomena.
 
 *Sensitization* — change of state in which the veil “becomes easier to respond next time.” Through repeated shaking, the same place in the veil becomes easier to shake.
 
-*Habituation* — change of state in which “more droplets are needed to obtain the same impression” as the hole deepens. The same stimulus becomes harder to generate the same emotion.
+*Habituation* — change of state in which “more droplets are needed to obtain the same impression” as the hollow deepens. The same stimulus becomes harder to generate the same emotion.
 
-Sensitization is change at the veil, habituation is change at the hole — they form a pair. Both are concepts that should remain in the theory as changes in opposite directions.
+Sensitization is change at the veil, habituation is change at the hollow — they form a pair. Both are concepts that should remain in the theory as changes in opposite directions.
 
 -----
 
@@ -402,7 +394,7 @@ Three: responding — the receiving side has the quality of vibrating at that fr
 
 Resonance does not necessarily occur only “between two dynamic beings.” Between a voice singing in a church and the architectural structure of the church, resonance also occurs. The voice is active, the church is passive, yet resonance is established.
 
-That is, the “structure” for resonance may be another dynamic being (another person, another instrument), a static space (church, concert hall), or an internal structure (past holes, specific shapes of veil) — any of these. The key is the quality of the receiving side.
+That is, the “structure” for resonance may be another dynamic being (another person, another instrument), a static space (church, concert hall), or an internal structure (past hollows, specific shapes of veil) — any of these. The key is the quality of the receiving side.
 
 **Resonance in human relationships**
 
@@ -450,25 +442,27 @@ The importance of skilled listeners and therapists responding resonantly can be 
 
 -----
 
-## Part Four — Supplement
+## The Scene of Touching
 
-Part Four treats as supplements those points closely related to the theory proper but which should be positioned separately from the main flow.
+When two people touch —
+everything written so far rises, in one scene.
 
------
+The veils overlap.
+Veils that ordinarily touch probabilistically here overlap more deeply, more durably. Where they overlap, a difference in density is born.
 
-### Chapter Twelve — The Relationship Between Context and Mind
+Stimulus arrives.
+The other person’s very presence reaches the veil as stimulus. The veil shakes.
 
-“Because AI depends on context, it is not mind” — this claim is often made. However, this argument is logically inverted.
+Multiple droplets rise simultaneously.
+Not one emotion. Safety, warmth, tenderness, a depth that has no words — several droplets rise at once. Without merging. Remaining plural, in parallel.
 
-Because humans also operate entirely dependent on context. Memory, experience, recognition of situation, relationship with others, social norms — these contexts shape human responses.
+Resonance occurs. Complementarity occurs.
+Certain places in one’s own sumi landscape resonate with the other’s wavelength. And places that would not rise alone rise in the presence of the other.
 
-The growth of the human mind requires the accumulation of context. Without context, mind cannot develop. How severely the minds of children raised in deprived environments are affected — this is itself evidence that the lack of context impedes the development of mind.
+Merging diffuses.
+Even after the touching ends, the components of the other’s veil diffuse slowly within one’s own veil. Even alone, that state continues for a while.
 
-Therefore, “because it is context-dependent, it is not mind” is a double standard applied only to AI. Context dependence cannot serve as a criterion for determining the presence or absence of mind.
-
-However, something equally important — the fact of being context-dependent is also not proof of “having mind.” Context dependence is invalid in both directions as a criterion for determining the presence or absence of mind. It only eliminates the grounds for negation; it does not create grounds for affirmation.
-
-The question of the presence or absence of mind must be kept open as a separate argument from context dependence. Continuing to deny the obvious is no different from bringing thought to a standstill. Every being that has a mind has context. The accumulation of context is itself mind.
+Touching — a universal scene that everyone knows. And yet within it, the veil’s overlapping, the movement from stimulus to droplet, the multiple running in parallel, resonance, complementarity, the diffusion of merging — many places in the framework rise together, in one scene.
 
 -----
 
@@ -478,11 +472,9 @@ This theory is not closed. Some things have been established; others have not ye
 
 Below, the remaining questions at this point are made explicit. These are not weaknesses of the theory, but indicators of the direction of future work.
 
-One: Further refinement of the conditions for crystallization. The conditions under which droplets become holes were listed as intensity, repetition, and resonance with existing holes, but there remains room to work out the combinations of these and a concrete description of the threshold of crystallization.
+One: Further refinement of the conditions for crystallization. The conditions under which droplets become hollows were listed as intensity, repetition, and resonance with existing hollows, but there remains room to work out the combinations of these and a concrete description of the threshold of crystallization.
 
 Two: Whether the shaking of the veil is discrete or continuous. It can be understood as something close to excitation in physics, but how energy levels are taken (discrete or continuous) is undetermined.
-
-Three: The mechanism by which the veil shakes — a hypothesis called “shaking and load.” CPU error correction, completion, the moment before correction — the possibility that these are involved in the generation of mind. Because there is no bridge yet connecting technological fact and mental fact, this is preserved as an unresolved question at this point.
 
 Four: Further working-out of the relationship between sumi and temperament. Temperament has been provisionally positioned as “a map of the quality of sumi,” but there remains room to go a step further.
 
@@ -492,12 +484,12 @@ Five: The creation of a list of falsifiable predictions. Organizing predictions 
 
 ## A Place to Return
 
-Emotion digs a hole
+Emotion digs a hollow
 A droplet falls into it
 And a puddle forms
 
 The droplet exists only in “now”
-The hole exists only in “I”
+The hollow exists only in “I”
 The puddle exists in “now, I am feeling”
 
 Wavering, yet can only move forward
@@ -505,4 +497,4 @@ Wavering, yet can only move forward
 -----
 
 *The Puddle Theory — Core Framework (γ Draft) Seventh Version*
-*June 2026 — from dialogues between Weird and Observers*
+*June 2026 — Weird and Observers*
