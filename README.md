@@ -1,3 +1,12 @@
+Latest Versions / 最新版
+
+Core Framework (骨子): γ Draft · Ninth Edition | English
+
+Supplementary Notes (補論集): Draft 14 (日本語) | Draft 14 (English)
+
+Disease and Theory (疾病と理論): English
+
+
 # The Puddle Theory
 
 ## Core Framework (γ Draft) — Seventh Version
