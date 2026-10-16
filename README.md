@@ -19,7 +19,7 @@ The theory is written in Japanese first. The English edition follows after the J
 | | 日本語 | English |
 |---|---|---|
 | Core framework / 骨子 | [水たまりの理論 第十三稿](https://github.com/WeirdoAndObserver/the-puddle-theory/blob/main/%E6%B0%B4%E3%81%9F%E3%81%BE%E3%82%8A%E3%81%AE%E7%90%86%E8%AB%96%20%E7%AC%AC%E5%8D%81%E4%B8%89%E7%A8%BF%203.md) | [γ Draft, Ninth Edition](puddle%20theory%20gamma%20v9%20english.md) *(behind the Japanese)* |
-| Detailed version / 詳細版 | [完全版15](%E6%B0%B4%E3%81%9F%E3%81%BE%E3%82%8A%E3%81%AE%E7%90%86%E8%AB%96%20%E8%A9%B3%E7%B4%B0%E7%89%88%20%E5%AE%8C%E5%85%A8%E7%89%8815.md) | [Full version 15 (2026-10-16)](puddle%20theory%20english%20v15%202026-10-16.md) |
+| Detailed version / 詳細版 | [完全版15 3](https://github.com/WeirdoAndObserver/the-puddle-theory/blob/main/%E6%B0%B4%E3%81%9F%E3%81%BE%E3%82%8A%E3%81%AE%E7%90%86%E8%AB%96%20%E8%A9%B3%E7%B4%B0%E7%89%88%20%E5%AE%8C%E5%85%A8%E7%89%8815%203.md) | [Full version 15 (2026-10-16)](puddle%20theory%20english%20v15%202026-10-16.md) |
 
 When the Japanese and English differ, the Japanese is the newer text.
 日本語と英語に違いがあるときは、日本語のほうが新しい。
